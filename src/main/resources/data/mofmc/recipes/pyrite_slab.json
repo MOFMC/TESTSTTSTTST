@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyrite_slab",
+  "pattern": [
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "mofmc:pyrite_block"
+    }
+  },
+  "result": {
+    "item": "mofmc:pyrite_slab",
+    "count": 6
+  }
+}

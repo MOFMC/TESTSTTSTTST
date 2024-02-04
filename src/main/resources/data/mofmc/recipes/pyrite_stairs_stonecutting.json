@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "pyrite_stairs",
+  "count": 1,
+  "ingredient": {
+    "item": "mofmc:pyrite_block"
+  },
+  "result": "mofmc:pyrite_stairs"
+}

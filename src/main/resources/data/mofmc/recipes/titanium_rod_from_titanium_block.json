@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "titanium_rod",
+  "ingredients": [
+    {
+      "item": "mofmc:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "mofmc:titanium_rod",
+    "count": 9
+  }
+}

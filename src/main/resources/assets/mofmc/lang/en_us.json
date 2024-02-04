@@ -1,0 +1,71 @@
+{
+  "item.mofmc.ruby": "Ruby",
+  "item.mofmc.raw_ruby": "Raw Ruby",
+
+  "block.mofmc.ruby_ore": "Ruby Ore",
+  "block.mofmc.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.mofmc.nether_ruby_ore": "Nether Ruby Ore",
+  "block.mofmc.end_ruby_ore": "End Ruby Ore",
+  "block.mofmc.ruby_block": "Block of Ruby",
+  "block.mofmc.raw_ruby_block": "Block of Raw Ruby",
+  "block.mofmc.ruby_stairs": "Ruby Stairs",
+  "block.mofmc.ruby_slab": "Ruby Slab",
+  "block.mofmc.ruby_pressure_plate": "Ruby Pressure Plate",
+
+  "item.mofmc.ruby_sword": "Ruby Sword",
+  "item.mofmc.ruby_pickaxe": "Ruby Pickaxe",
+  "item.mofmc.ruby_shovel": "Ruby Shovel",
+  "item.mofmc.ruby_axe": "Ruby Axe",
+  "item.mofmc.ruby_hoe": "Ruby Hoe",
+
+  "item.mofmc.ruby_helmet": "Ruby Helmet",
+  "item.mofmc.ruby_chestplate": "Ruby Chestplate",
+  "item.mofmc.ruby_leggings": "Ruby Leggings",
+  "item.mofmc.ruby_boots": "Ruby Boots",
+
+  "item.mofmc.pyrite_ingot": "Pyrite Ingot",
+  "item.mofmc.raw_pyrite": "Raw Pyrite",
+
+  "block.mofmc.pyrite_ore": "Pyrite Ore",
+  "block.mofmc.deepslate_pyrite_ore": "Deepslate Pyrite Ore",
+  "block.mofmc.nether_pyrite_ore": "Nether Pyrite Ore",
+  "block.mofmc.end_pyrite_ore": "End Pyrite Ore",
+  "block.mofmc.pyrite_block": "Block of Pyrite",
+  "block.mofmc.raw_pyrite_block": "Block of Raw Pyrite",
+
+  "item.mofmc.pyrite_sword": "Pyrite Sword",
+  "item.mofmc.pyrite_pickaxe": "Pyrite Pickaxe",
+  "item.mofmc.pyrite_shovel": "Pyrite Shovel",
+  "item.mofmc.pyrite_axe": "Pyrite Axe",
+  "item.mofmc.pyrite_hoe": "Pyrite Hoe",
+
+  "item.mofmc.pyrite_helmet": "Pyrite Helmet",
+  "item.mofmc.pyrite_chestplate": "Pyrite Chestplate",
+  "item.mofmc.pyrite_leggings": "Pyrite Leggings",
+  "item.mofmc.pyrite_boots": "Pyrite Boots",
+
+
+  "item.mofmc.titanium_rod": "Titanium Rod",
+  "item.mofmc.titanium_dust": "Titanium Dust",
+
+  "block.mofmc.titanium_ore": "Titanium Ore",
+  "block.mofmc.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.mofmc.nether_titanium_ore": "Nether Titanium Ore",
+  "block.mofmc.end_titanium_ore": "End Titanium Ore",
+  "block.mofmc.titanium_block": "Block of Titanium",
+
+  "item.mofmc.titanium_sword": "Titanium Sword",
+  "item.mofmc.titanium_pickaxe": "Titanium Pickaxe",
+  "item.mofmc.titanium_shovel": "Titanium Shovel",
+  "item.mofmc.titanium_axe": "Titanium Axe",
+  "item.mofmc.titanium_hoe": "Titanium Hoe",
+
+  "item.mofmc.titanium_helmet": "Titanium Helmet",
+  "item.mofmc.titanium_chestplate": "Titanium Chestplate",
+  "item.mofmc.titanium_leggings": "Titanium Leggings",
+  "item.mofmc.titanium_boots": "Titanium Boots",
+
+  "creativetab.mofmc_tab": "MOFMC",
+
+  "item.mofmc.ruby_v_1": "Ruby Version 1"
+}

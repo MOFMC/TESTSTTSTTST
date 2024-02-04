@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ruby_slab",
+  "pattern": [
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "mofmc:ruby_block"
+    }
+  },
+  "result": {
+    "item": "mofmc:ruby_slab",
+    "count": 6
+  }
+}

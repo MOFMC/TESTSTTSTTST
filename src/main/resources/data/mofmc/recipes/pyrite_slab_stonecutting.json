@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "pyrite_slab",
+  "count": 2,
+  "ingredient": {
+    "item": "mofmc:pyrite_block"
+  },
+  "result": "mofmc:pyrite_slab"
+}

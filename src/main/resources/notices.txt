@@ -1,0 +1,7 @@
+1. Placed Features contains many problems. Might want to check others as well.
+2. Before releasing, balance the generation.
+  Plan:
+  - Get the amount of the ore that appears per chunk, and make it so that a similar (but slightly lower)* amount appear       * Maybe an equal amount.
+    in each respective dimension.
+3. Maybe add in other versions of default Minecraft ores.
+  - Ex: Nether Diamond Ore, End Redstone Ore, End Emerald Ore.
