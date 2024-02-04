@@ -32,6 +32,9 @@
   "block.mofmc.end_pyrite_ore": "End Pyrite Ore",
   "block.mofmc.pyrite_block": "Block of Pyrite",
   "block.mofmc.raw_pyrite_block": "Block of Raw Pyrite",
+  "block.mofmc.pyrite_stairs": "Pyrite Stairs",
+  "block.mofmc.pyrite_slab": "Pyrite Slab",
+  "block.mofmc.pyrite_pressure_plate": "Pyrite Pressure Plate",
 
   "item.mofmc.pyrite_sword": "Pyrite Sword",
   "item.mofmc.pyrite_pickaxe": "Pyrite Pickaxe",
@@ -53,6 +56,9 @@
   "block.mofmc.nether_titanium_ore": "Nether Titanium Ore",
   "block.mofmc.end_titanium_ore": "End Titanium Ore",
   "block.mofmc.titanium_block": "Block of Titanium",
+  "block.mofmc.titanium_stairs": "Titanium Stairs",
+  "block.mofmc.titanium_slab": "Titanium Slab",
+  "block.mofmc.titanium_pressure_plate": "Titanium Pressure Plate",
 
   "item.mofmc.titanium_sword": "Titanium Sword",
   "item.mofmc.titanium_pickaxe": "Titanium Pickaxe",
